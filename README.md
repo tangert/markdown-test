@@ -4,6 +4,9 @@
     *   [Philosophy](#philosophy)
     *   [Inline HTML](#html)
     *   [Automatic Escaping for Special Characters](#autoescape)
+      * another sub
+        * wow
+          * cool
 *   [Block Elements](#block)
     *   [Paragraphs and Line Breaks](#p)
     *   [Headers](#header)
@@ -28,6 +31,11 @@
   - hello
     - cool
     - wow
+
+
+```javascript
+console.log('i hate javascript');
+```
 
 # h1
 ## h2
